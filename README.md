@@ -13,6 +13,7 @@
 - [robot-simulation](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/robot-simulation/introduction.html) - Introduction to Robot Simulation
 - [GitFlow](https://github.com/jlarriba/jrmapi](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)) -  is an alternative Git branching model that involves the use of feature branches and multiple primary branches
 - [Trunk-based-development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development) - is a version control management practice where developers merge small, frequent updates to a core “trunk” or main branch
+- [VS-Code-3-Way-Merge](https://github.com/eol70/FRC2023-INFO/blob/main/VS-Code-Merge.md)
 
 
 ## Vision
