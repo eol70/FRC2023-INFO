@@ -3,16 +3,27 @@
 
 ## Contents
 
+- [General](#general)
 - [Programming](#programming)
 - [Vision](#vision)
 - [Arm](#arm)
 
+## General
+[NASA-Design-Guide](https://robotics.nasa.gov/downloads/nasarap-rdc-v101-compressed.pdf)- NASA Robotics Alliance Project (RAP) Robotics Design Guide
 
 ## Programming
 
-- [robot-simulation](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/robot-simulation/introduction.html) - Introduction to Robot Simulation
-- [GitFlow](https://github.com/jlarriba/jrmapi](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)) -  is an alternative Git branching model that involves the use of feature branches and multiple primary branches
+
+  ### GIT
+  - [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) -  is an alternative Git branching model that involves the use of feature branches and multiple primary branches
 - [Trunk-based-development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development) - is a version control management practice where developers merge small, frequent updates to a core “trunk” or main branch
+
+  ### WPILIB
+- [robot-simulation](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/robot-simulation/introduction.html) - Introduction to Robot Simulation
+- [Command-Based Programming](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html) - Command-Based Programming
+- [PID Control](https://docs.wpilib.org/en/stable/docs/software/commandbased/pid-subsystems-commands.html#pid-control-through-pidsubsystems-and-pidcommands) - PID Control through PIDSubsystems and PIDCommands
+
+  ### VS CODE
 - [VS-Code-3-Way-Merge](https://github.com/eol70/FRC2023-INFO/blob/main/VS-Code-Merge.md)
 
 
