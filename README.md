@@ -31,6 +31,9 @@
 
 - [Arm-Counter-Balance](https://www.chiefdelphi.com/t/team-846-gravity-arm-counterbalancing-video/368195) - https://www.youtube.com/watch?v=OdmpYBSMWzM
 - [Double-Jointed-Arm-Simulation](https://github.com/WHS-FRC-3467/DoubleJointedArmSim/tree/double-with-wrist#double-jointed-arm-simulation)
+      - [Video](https://cdn-cf-east.streamable.com/video/mp4/0e09lj.mp4?Expires=1674063600&Signature=cZUo2huhLnWn0DiwfX-1PtEuo1et0o-qkqWq-JDaOn~UTDI0LF7TzIZjtwfynhFVvXEKnIQN2Hqar-1Ol-l--Q6C9MG4ZD1dYsrfT4NksImG8GAnORU769uKKPst71izWVBN~a~LjqmtFhLyS98V0ACrP4qXh4oKd28X16xEhQOtmM~cox~3Mef3h4kHJYaOAiJYzP52kwJ3pS-AgqlnTr-e7yHUodSrBcB4P6H1xfqloGUfxxvvuDLPWiR7~cAhmQcNYVx83vOU8iJ0aB6YnIzOdPygqXk4vu67MzgLZpZBxp0e5zqMCxTZeGkQLO0NhbGRYoIZ30OLn7Dy53BWgA__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ)
 
 ![211380692-2416ee17-1843-44f0-b0cc-2aecce3ddb5e](https://user-images.githubusercontent.com/38659431/213076505-0b6e1a7e-a739-4e20-960c-8522bdb565ea.jpg)
+
+
 
